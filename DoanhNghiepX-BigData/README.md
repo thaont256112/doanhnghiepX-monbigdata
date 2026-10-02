@@ -5,7 +5,7 @@ Chương trình Thạc sĩ Thương mại điện tử, Trường Đại học K
 
 Học viên: Nguyễn Thu Thảo – MSSV C25611324
 
-- Ứng dụng: [dán đường dẫn Streamlit]
+- Ứng dụng: (https://doanhnghiepx-monbigdata-gz8xhjnf3rkaxmtcwjkrue.streamlit.app/)
 - Trường hợp nghiên cứu: Doanh nghiệp X (đã ẩn danh), cơ sở bán đồ thể thao tự sản xuất theo đơn.
 - Dữ liệu: 17.642 dòng bán, 8.460 đơn hàng, 06/2025 – 07/2026 (không công khai trong kho này).
 
