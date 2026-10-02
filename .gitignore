@@ -1,0 +1,16 @@
+# Không đưa dữ liệu đơn hàng gốc (có tên, số điện thoại khách hàng) lên GitHub
+data/
+*orders*.xlsx
+*Orders*.xlsx
+Bản sao*.xlsx
+don_hang*.xlsx
+*.csv
+
+# Tệp hệ thống / môi trường
+__pycache__/
+*.pyc
+.DS_Store
+.venv/
+venv/
+.ipynb_checkpoints/
+.streamlit/secrets.toml
