@@ -1,0 +1,8 @@
+streamlit>=1.40
+pandas>=2.0
+numpy
+openpyxl
+scipy
+lightgbm>=4.0
+mlforecast>=0.13
+mlxtend>=0.23
